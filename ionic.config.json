@@ -1,8 +1,8 @@
 {
-  "name": "camera-test",
-  "app_id": "",
-  "type": "ionic-angular",
+  "name": "mba-cam",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular",
+  "app_id": ""
 }
